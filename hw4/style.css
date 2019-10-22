@@ -1,0 +1,201 @@
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#F4F3F3;
+}
+.index ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#333;
+}
+.active {
+  background-color: #4CAF50;
+}
+li {
+  float: left;
+   border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.index li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color:#4CAF50;
+}
+
+
+
+
+
+
+
+.container{
+	width:100%;
+    text-align:center;
+    background:#F4F3F3;
+	height:100px;
+}
+
+.contain{
+    width: 44%;
+    margin: -16px 388px 0px;
+    background:#F4F3F3;
+	
+}
+.nav-item a{
+	margin:0px;
+	padding-bottom:3px;
+}
+
+
+.header{
+	color:black;
+	text-align:center;
+	margin-top:20px;
+}
+form{
+	margin: 21px 66px 25px;
+	width:70%;
+}
+.regi{
+	width: -1%;
+background-color: ;
+padding: 11px 59px;
+margin-top: -12px;
+border-radius:5%;
+display: block;
+}
+.user{
+margin-left: 0px;
+margin-bottom: 9px;
+font-family: calibri;
+font-size: 16px;
+display: block;
+}
+
+.user input{	
+margin-top: 0px;
+font-family: calibri;
+color: black;
+display: block;
+padding: 4px 21px;
+border-radius: 5px;
+width: 82%;
+}
+
+
+
+.submit button{
+margin-left: 59px;
+margin-bottom: 11px;
+margin-top: -5px;
+font-family: calibri;
+display: block;
+width: 29%;
+padding: 6px 10px;
+border-radius: 5px;
+text-align: center;
+color:#2980B9;
+font-size: 15px;
+text-decoration:none;
+
+
+}
+.submit p{
+margin-left: 59px;
+margin-bottom: 11px;
+margin-top: -5px;
+font-family: calibri;
+display: block;
+width: 29%;
+padding: 6px 10px;
+border-radius: 5px;
+text-align: center;
+color:#2980B9;
+font-size: 15px;
+text-decoration:none;
+
+
+}
+
+.submit button:hover{
+	box-shadow: inset 1px 1px 4px #2980B9;
+}
+.submit a{
+margin-left: 58px;
+margin-bottom: 4px;
+margin-top: 10px;
+font-family: calibri;
+color: #2980B9;
+display: block;
+width: 18%;
+text-decoration: none;
+background-color: #F1F1F1;
+border: 0px solid red;
+padding: 4px 10px;
+border-radius: 5px;
+text-align: center;
+box-shadow: inset -1px -1px 4px #2980B9;
+	
+}
+.submit a:hover{
+	box-shadow: inset 1px 1px 4px #2980B9;
+}
+
+.login button{
+	margin-left: 59px;
+margin-bottom: 11px;
+margin-top: -5px;
+font-family: calibri;
+display: block;
+width: 29%;
+padding: 6px 10px;
+border-radius: 5px;
+text-align: center;
+color:#2980B9;
+font-size: 15px;
+text-decoration:none;
+	
+}
+.submit button:hover{
+	box-shadow: inset 1px 1px 4px #2980B9;
+}
+
+.login a{
+margin-left: 58px;
+margin-bottom: 4px;
+margin-top: 10px;
+font-family: calibri;
+color: #2980B9;
+display: block;
+width: 30%;
+text-decoration: none;
+background-color: #F1F1F1;
+border: 0px solid red;
+padding: 4px 10px;
+border-radius: 5px;
+text-align: center;
+box-shadow: inset -1px -1px 4px #2980B9;
+	
+}
+.login a:hover{
+	box-shadow: inset 1px 1px 4px #2980B9;
+}
+
+
